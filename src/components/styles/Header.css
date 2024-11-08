@@ -1,0 +1,53 @@
+.header {
+    background-color: #000;
+    color: #fff;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.xuv-logo {
+    max-width: 1304px;
+    width: 100%;
+    opacity: 0.46;
+    margin-top: -50px;
+
+}
+
+.main-car-image {
+    max-width: 935px;
+    width: 100%;
+    margin-top: -20px;
+
+}
+
+.tagline {
+    width: 100%;
+    color: #ccc;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 2rem;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+.tagline-section {
+    margin-top: 22rem;
+}
+
+@media (max-width:992px) {
+    .tagline-section {
+        margin-top: 15rem;
+    }
+}
+
+@media (max-width:768px) {
+    .tagline-section {
+        margin-top: 12rem;
+    }
+}

@@ -1,0 +1,40 @@
+.user-reviews-section {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .user-reviews-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .user-reviews-stars {
+    font-size: 1.5rem;
+  }
+  
+  .user-reviews-rating-score {
+    font-size: 2rem;
+  }
+  
+  .user-reviews-write-review-btn {
+    border-radius: 5px;
+  }
+  
+  .user-review-stars {
+    font-size: 1.2rem;
+  }
+  
+  .card {
+    background-color: transparent;
+  }
+  
+  .btn-outline-warning {
+    color: #ffa500;
+    border-color: #ffa500;
+  }
+  
+  .btn-outline-warning:hover {
+    background-color: #ffa500;
+    color: #000;
+  }
+  

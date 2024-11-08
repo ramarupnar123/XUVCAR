@@ -1,0 +1,57 @@
+.expert-advice-section {
+  background-color: #000;
+  color: #fff;
+}
+
+.tabs-section .tab {
+  color: #ccc;
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  transition: color 0.3s;
+}
+
+.tabs-section .tab:hover,
+.tabs-section .tab.active {
+  color: #ffb700;
+}
+
+.tab-separator {
+  color: #666;
+}
+
+.underline-divider {
+  width: 60%;
+  height: 1px;
+  background-color: #666;
+  margin: 1rem auto;
+}
+
+.content-section {
+  text-align: center;
+}
+
+.tab-image {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 1rem;
+}
+
+.expert-content {
+  color: #ccc;
+  font-size: 1rem;
+}
+
+.view-more-btn {
+  color: #fff;
+  background-color: #ffb700;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.view-more-btn:hover {
+  background-color: #ff9900;
+}

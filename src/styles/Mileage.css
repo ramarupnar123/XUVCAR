@@ -1,0 +1,54 @@
+.mileage-section {
+  background-color: #000;
+  color: #fff;
+}
+
+.mileage-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.mileage-subtitle {
+  font-size: 1rem;
+  color: #d1d1d1;
+  margin-bottom: 1.5rem;
+}
+
+.mileage-table {
+  margin-top: 1rem;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.mileage-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  background-color: #222; 
+  font-weight: bold;
+  color: #00aaff;
+
+}
+
+.mileage-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  background-color: none;
+  border-bottom: 1px solid #333; 
+}
+
+.mileage-row:last-child {
+  border-bottom: none; 
+}
+
+.mileage-cell {
+  font-size: 1rem;
+  color: #fff;
+}
+
+.mileage-cell:nth-child(3),
+.mileage-cell:nth-child(4) {
+  color: #aaa;
+}
